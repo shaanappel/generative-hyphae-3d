@@ -6,9 +6,6 @@ import os
 from scipy.spatial.distance import cdist
 
 
-# SEGMENTS = 48
-SEGMENTS = 20
-
 def pair_distances(backbone, groupB):
     backbone_points = np.zeros((len(backbone), 3))
     for i in range(len(backbone)):
@@ -305,7 +302,6 @@ def convert_to_off(filename):
 
 
 def main(argv):
-    # filename = "Simple_Stand_Heart.stl"
     if len(argv) == 0:
         filename = "input/sphere"
     else:
@@ -347,4 +343,4 @@ def main(argv):
 if __name__ == '__main__':
     main(sys.argv[1:])
 
-    # Example call: python growth_opt.py input/cube.stl 10 500
+    # Example call: python grow_hyphae.py input/sphere.stl 10 500
