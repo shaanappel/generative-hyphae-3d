@@ -7,7 +7,7 @@ This algorithm was created by Shaan Appel with support from Shivam Parikh and Ha
 
 ### Results
 
-The algorithm produces both stl files for printing to an `stlexport` folder. It saves Blender files with keyframes autoset for creating animations to the `blend` folder. Example animations can be seen here: 
+The algorithm produces stl files for 3D printing to an `stlexport` folder. It saves Blender files with keyframes autoset for creating animations to the `blend` folder. Example animations can be seen here: 
 
 [![Growth Simulation Video](https://img.youtube.com/vi/lye-AdrAYNw/0.jpg)](https://www.youtube.com/watch?v=lye-AdrAYNw)
 
