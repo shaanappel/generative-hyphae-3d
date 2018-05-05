@@ -21,7 +21,7 @@ Before running the program, you must install Blender and all python libraries (t
 Install all python library dependencies:
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Install [Blender](https://www.blender.org/download/) and set up [command line usage](https://docs.blender.org/manual/en/dev/render/workflows/command_line.html) for your device.

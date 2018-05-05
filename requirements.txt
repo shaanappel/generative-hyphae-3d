@@ -1,4 +1,3 @@
 numpy
-subprocess
 openmesh
 scipy
