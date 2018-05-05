@@ -2,7 +2,7 @@
 
 ### Creation and Inspiration
 
-This algorithm was created by Shaan Appel with support from Shivam Parikh and Hatim Khan for CS 194-028 (Computational Design and Fabrication) during Spring 2018. Much of the inspiration for creating this algorithm is from the [Inconvergent Blog](http://inconvergent.net/generative/) by Anders Hoff.
+This algorithm was created by Shaan Appel with support from Shivam Parikh and Hatim Khan for [CS 194-028 (Computational Design and Fabrication)](https://people.eecs.berkeley.edu/~jrb/cs194-028/sp18/), taught by Jonathan Bachrach during Spring 2018 at UC Berkeley. Much of the inspiration for creating this algorithm is from the [Inconvergent Blog](http://inconvergent.net/generative/) by Anders Hoff.
 
 
 ### Results
