@@ -16,7 +16,7 @@ The algorithm produces both stl files for printing to an `stlexport` folder. It 
 
 ##### Installing Dependencies:
 
-Before running the program, you must install Blender and all python libraries (tested and run with Python 3.6).
+Before running the program, you must install Blender, CGAL, and all python libraries (tested and run with Python 3.6).
 
 Install all python library dependencies:
 
@@ -25,6 +25,8 @@ pip install -r requirements.txt
 ```
 
 Install [Blender](https://www.blender.org/download/) and set up [command line usage](https://docs.blender.org/manual/en/dev/render/workflows/command_line.html) for your device.
+
+Install [CGAL](https://www.cgal.org/download.html).
 
 
 ##### Running the program:
